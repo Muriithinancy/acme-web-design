@@ -76,7 +76,9 @@ __As a user I want to be able to see general purpose of this website__
 
 ### Repo
 
-Branch called  `showcase`
+Branch called  `2-showcase-dom` and a
+Branch called  `3-showcase-style`
+
 
 ### HTML
 
@@ -98,7 +100,8 @@ __As a user I want to be able to know more information about the company__
 
 ### Repo
 
-Branch called `newsletter`
+Branch called  `4-newsletter-dom`
+Branch called  `5-newsletter-style`
 
 ### HTML
 
@@ -111,7 +114,8 @@ __As a user I want to be able to see what this website offers__
 
 ### Repo
 
-Branch called  `boxes`
+Branch called  `6-boxes-dom`
+Branch called  `7-boxes-style`
 
 ### HTML
 
@@ -129,7 +133,8 @@ __As a user I want to be able to see the footer__
 
 ### Repo
 
-Branch called `copyright` to work on the footer section
+Branch called  `8-copyright-dom`
+Branch called  `9-copyright-style`
 
 ### HTML
 
