@@ -37,7 +37,7 @@ __As a user I want to be able to read the overview of this project__
 
 - [ ] Create css folder
 - [ ] Create style.css file
-- [ ] Style the body: font, background and offset the margin and padding
+- [ ] Style the body: font, background and offset the margin and padding from their default values
 
 ### index.html
 
@@ -62,14 +62,13 @@ Branch called `header` to work on the header
 
 ### CSS
 
-- [ ] Align the header to the middle
-  - [ ] Extra small size screen: center header h1
-- [ ] Add and style fonts, remove margins and paddings, set line height
-- [ ] Style main header
->
-- [ ] Align nav to the right and align to the middle vertically
-- [ ] Add primary text and background colors
-- [ ] Style the navbar and the links
+- [ ] Style container: responsive, align to the middle, offset scrollbar
+- [ ] Style the list by removing default values for their margins and padding
+- [ ] Align list items to the left to make them horizontal
+  >
+- [ ] Style header and align to the left
+- [ ] Style the links and align nav to the right and middle vertically
+- [ ] Apply responsive
 
 ## 2. User Story: The showcase
 
@@ -89,6 +88,7 @@ Branch called  `showcase`
 
 - [ ] Add background image
 - [ ] Align to the center horizontally and to the middle vertically
+  >
 - [ ] Style showcase with background image, for h1 and p: center the row and add and style the background . 
 - [ ] Add media query for smallest screen 
 
@@ -105,7 +105,7 @@ Branch called `newsletter`
 - [ ] Create a section for newsletter with id newsletter, h1
 - [ ] Add form with email input, a placeholder and a subscribe button
 
-## 4. User Story: The Features
+## 4. User Story: The Offerings
 
 __As a user I want to be able to see what this website offers__
 
