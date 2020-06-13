@@ -126,6 +126,16 @@ header a:hover {
 #boxes .box img {
     width: 90px;
 }
+
+/* Footer */
+footer {
+    background-color: #e8491d;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+    color: #ffffff;
+}
+
     /* Media Query */
 
 /* Tablets */

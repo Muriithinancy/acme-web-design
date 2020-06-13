@@ -154,8 +154,7 @@ Branch called  `9-copyright-style`
 
 ### CSS
 
-- [ ] Align to the center
-- [ ] Style the main-footer
+- [ ] Style the footer
 
 ## 6. Final Code Validation
 
