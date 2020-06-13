@@ -91,8 +91,8 @@ Branch called  `3-showcase-style`
 - [ ] Add background image
 - [ ] Align to the center horizontally and to the middle vertically
   >
-- [ ] Style showcase with background image, for h1 and p: center the row and add and style the background . 
-- [ ] Add media query for smallest screen 
+- [ ] Style showcase with background image, for h1 and p: center the row and add and style the background .
+- [ ] Add media query for smallest screen
 
 ## 3. User Story: Newsletter Section
 
@@ -107,6 +107,15 @@ Branch called  `5-newsletter-style`
 
 - [ ] Create a section for newsletter with id newsletter, h1
 - [ ] Add form with email input, a placeholder and a subscribe button
+
+### CSS
+
+- [ ] Style form
+- [ ] Align the title and box to the left 
+  >
+- [ ] Align form to the right and vertically middle.
+- [ ] Style button
+- [ ] Add responsivity to fit smaller screens.
 
 ## 4. User Story: The Offerings
 
