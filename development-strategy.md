@@ -133,8 +133,10 @@ Branch called  `7-boxes-style`
 
 ### CSS
 
-- [ ] Align to the middle
-- [ ] Style images, h3, and p
+- [ ] Layout the boxes
+- [ ] Align text to center
+- [ ] Resize images
+- [ ] Add responsivity for the boxes
   
 ## 5. User Story: The footer
 
